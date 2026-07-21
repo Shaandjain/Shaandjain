@@ -11,4 +11,4 @@ Forward-Deployed Engineer at [Casper Studios](https://casperstudios.com), buildi
 - **[Local Audio Pins](https://github.com/Shaandjain/local-audio-pins)** — Geo-audio platform built with Next.js, TypeScript, and MapLibre; exposes spatial queries through an MCP server for agent-generated walking tours.
   [Code](https://github.com/Shaandjain/local-audio-pins)
 
-[Website](https://shaanjain.com) · [LinkedIn](https://www.linkedin.com/in/shaanjain/) · [Email](mailto:shaanjain@utexas.edu)
+[Website](https://shaanjain.com) · [LinkedIn](https://www.linkedin.com/in/shaanjain/) · [Email](mailto:shaan.jain@mail.utoronto.ca)
