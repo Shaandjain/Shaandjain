@@ -1,6 +1,6 @@
 # Shaan Jain
 
-Forward-Deployed Engineer at [Casper Studios](https://casperstudios.com), building reliable AI systems for financial-services workflows.
+Forward-Deployed Engineer at [Casper Studios](https://casperstudios.com) -- Acquired by Ode with Anthropic, building reliable AI agents and systems for financial-services workflows.
 
 ## What I work on
 
