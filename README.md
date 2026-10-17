@@ -1,10 +1,10 @@
 # Shaan Jain
 
-Forward-Deployed Engineer at [Casper Studios](https://casperstudios.com) -- Acquired by Ode with Anthropic, building reliable AI agents and systems for financial-services workflows.
+Forward-Deployed Engineer at [Casper Studios](https://casperstudios.com) -- Acquired by [Ode with Anthropic](https://www.ode.com/), building reliable AI agents and systems for financial-services workflows.
 
 ## What I work on
 
-At Casper Studios, I build production AI systems for regulated financial-services workflows:
+At [Ode](https://www.ode.com/), I build production AI systems for regulated financial-services workflows:
 
 - **Source-grounded retrieval:** systems that retrieve from complex legal documents and legacy investment data, returning traceable source citations with model outputs.
 - **Agent evaluation infrastructure:** production trace capture, failure-case curation, automated rubric graders, and structured human review used as release gates across model and prompt iterations.
