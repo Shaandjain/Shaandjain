@@ -11,7 +11,7 @@ I build production AI systems for regulated financial-services workflows:
 - **Controlled agent execution:** sandboxed environments with scoped data access, constrained tools, network controls, and auditable execution paths.
 - **Legacy-data pipelines:** extraction, normalization, and validation of Excel workbooks—including VBA- and macro-driven models—for reliable downstream agent use.
 
-## Selected work
+### Some of my hobby projects
 
 - **[Queueing the Transformer](https://www.shaanjain.com/blog/queueing-the-transformer)** — Discrete-event simulator for LLM inference serving, modeling continuous batching, prefill/decode behavior, and KV-cache contention; calibrated against vLLM on an NVIDIA L4.
   [Write-up](https://www.shaanjain.com/blog/queueing-the-transformer) · [Code](https://github.com/Shaandjain/llm-inference-queueing)
