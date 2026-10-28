@@ -11,8 +11,9 @@ I build production AI systems for regulated financial-services workflows:
 - **Controlled agent execution:** sandboxed environments with scoped data access, constrained tools, network controls, and auditable execution paths.
 - **Legacy-data pipelines:** extraction, normalization, and validation of Excel workbooks—including VBA- and macro-driven models—for reliable downstream agent use.
 
-### Some of my hobby projects
+### Some of my projects
 
+- **Research Thesis -- [Modelling uncertainty for Agent Swarms in benchmarked workflows](https://github.com/Shaandjain/swarm-uncertainty)** -- Designing an experiment to determine whether an orchestrator's aggregated uncertainty can predict wrong actions in an LLM agent team, and when should it hand a decision to a human. Ideally, with this understanding, we are able to create agent harnesses that account for a given level of uncertainty, and result in fewer iterations and more accurate results in agentic workflows.
 - **[Queueing the Transformer](https://www.shaanjain.com/blog/queueing-the-transformer)** — Discrete-event simulator for LLM inference serving, modeling continuous batching, prefill/decode behavior, and KV-cache contention; calibrated against vLLM on an NVIDIA L4.
   [Write-up](https://www.shaanjain.com/blog/queueing-the-transformer) · [Code](https://github.com/Shaandjain/llm-inference-queueing)
 - **[Local Audio Pins](https://github.com/Shaandjain/local-audio-pins)** — Geo-audio platform built with Next.js, TypeScript, and MapLibre; exposes spatial queries through an MCP server for agent-generated walking tours.
