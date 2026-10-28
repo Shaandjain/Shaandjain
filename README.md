@@ -4,7 +4,7 @@ Forward-Deployed Engineer at [Casper Studios](https://casperstudios.com) -- Acqu
 
 ## What I work on
 
-At [Ode](https://www.ode.com/), I build production AI systems for regulated financial-services workflows:
+I build production AI systems for regulated financial-services workflows:
 
 - **Source-grounded retrieval:** systems that retrieve from complex legal documents and legacy investment data, returning traceable source citations with model outputs.
 - **Agent evaluation infrastructure:** production trace capture, failure-case curation, automated rubric graders, and structured human review used as release gates across model and prompt iterations.
